@@ -1,5 +1,9 @@
 # STM32_PMS
-Power Management system using the STM32F051R8T6 a
+Power Management system using the STM32F051R8T6 
+
+
+![Uploading Screenshot 2024-12-05 150905.png…]()
+
 Overview
 This project implements a Power Management System (PMS) using the STM32F0 Discovery board. It offers precise and adjustable voltage control, making it ideal for embedded applications and power distribution in complex energy environments.
 
